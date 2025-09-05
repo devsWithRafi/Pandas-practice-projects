@@ -1,0 +1,11 @@
+CustomerID,CustomerName,Country,Age,Gender,Product,Quantity,Price,PurchaseDate,TotalAmount
+1,Alice Smith,USA,25,F,Laptop,1,1200,2023-05-01,1200
+2,Bob Johnson,Canada,30,M,Smartphone,2,800,2023-05-02,1600
+3,Charlie Lee,UK,35,M,Headphones,3,150,2023-05-03,450
+4,Diana Green,Sweden,28,F,Tablet,1,600,2023-05-04,600
+5,Ethan Brown,Brazil,40,M,Laptop,2,1100,2023-05-05,2200
+6,Farah Khan,India,22,F,Smartphone,1,900,2023-05-06,900
+7,George Miller,USA,33,M,Smartwatch,2,300,2023-05-07,600
+8,Hannah Davis,Canada,27,F,Headphones,4,120,2023-05-08,480
+9,Ivan Petrov,Russia,29,M,Laptop,1,1300,2023-05-09,1300
+10,Julia Lopez,Mexico,31,F,Smartphone,2,850,2023-05-10,1700
