@@ -1,0 +1,21 @@
+Product_ID,Product_Name,Category,Quantity_Sold,Sales,Region,Customer_Rating,Supplier,Discount,Returned_Units
+101,Laptop,Electronics,15,15000,Dhaka,4.5,TechWorld,5,1
+102,Smartphone,Electronics,25,20000,Chittagong,4.2,MegaTech,10,0
+103,Refrigerator,Appliances,10,12000,Dhaka,4.0,HomeApplianceCo,7,1
+104,Microwave,Appliances,8,4000,Sylhet,3.8,KitchenPro,,0
+105,Headphones,Electronics,30,6000,Rajshahi,4.6,SoundMax,12,2
+106,Television,Electronics,12,,Dhaka,4.1,VisionTech,8,1
+107,Blender,Appliances,20,5000,Chittagong,3.9,KitchenPro,6,0
+108,Air Conditioner,Appliances,,25000,Dhaka,4.3,HomeApplianceCo,15,1
+109,Tablet,Electronics,18,9000,Khulna,,MegaTech,5,0
+110,Camera,Electronics,14,14000,Barisal,4.4,TechWorld,10,1
+111,Laptop,Electronics,15,15000,Dhaka,4.5,TechWorld,5,1   # duplicate
+112,Smartwatch,Electronics,22,7000,Rajshahi,4.0,MegaTech,10,0
+113,Vacuum Cleaner,Appliances,9,8000,Khulna,,HomeApplianceCo,7,0
+114,Speaker,Electronics,28,5600,Chittagong,4.7,SoundMax,,1
+115,Washing Machine,Appliances,11,17000,Sylhet,4.1,HomeApplianceCo,12,0
+116,Laptop,Electronics,,15000,Dhaka,4.2,TechWorld,5,0
+117,Tablet,Electronics,18,9000,Khulna,,MegaTech,5,0   # duplicate with null
+118,Microwave,Appliances,8,4000,Sylhet,3.8,KitchenPro,8,0   # duplicate but discount fixed
+119,Projector,Electronics,6,12000,Dhaka,4.3,VisionTech,,0
+120,Air Conditioner,Appliances,15,25000,Dhaka,4.3,HomeApplianceCo,15,1   # duplicate but fixed

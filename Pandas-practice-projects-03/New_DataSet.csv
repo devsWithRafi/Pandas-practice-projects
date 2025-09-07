@@ -1,0 +1,16 @@
+Product_ID,Product_Name,Category,Quantity_Sold,Sales,Region,Customer_Rating,Supplier,Discount,Returned_Units,Revenue_After_Discount,Return_Rate
+101,Laptop,Electronics,15.0,15000.0,Dhaka,4.5,TechWorld,5.0,1.0,14250.0,6.67
+102,Smartphone,Electronics,25.0,20000.0,Chittagong,4.2,MegaTech,10.0,0.0,18000.0,0.0
+103,Refrigerator,Appliances,10.0,12000.0,Dhaka,4.0,HomeApplianceCo,7.0,1.0,11160.0,10.0
+104,Microwave,Appliances,8.0,4000.0,Sylhet,3.8,KitchenPro,0.0,0.0,4000.0,0.0
+105,Headphones,Electronics,30.0,6000.0,Rajshahi,4.6,SoundMax,12.0,2.0,5280.0,6.67
+106,Television,Electronics,12.0,11400.0,Dhaka,4.1,VisionTech,8.0,1.0,10488.0,8.33
+107,Blender,Appliances,20.0,5000.0,Chittagong,3.9,KitchenPro,6.0,0.0,4700.0,0.0
+108,Air Conditioner,Appliances,16.29,25000.0,Dhaka,4.3,HomeApplianceCo,15.0,1.0,21250.0,6.14
+109,Tablet,Electronics,18.0,9000.0,Khulna,4.2,MegaTech,5.0,0.0,8550.0,0.0
+110,Camera,Electronics,14.0,14000.0,Barisal,4.4,TechWorld,10.0,1.0,12600.0,7.14
+112,Smartwatch,Electronics,22.0,7000.0,Rajshahi,4.0,MegaTech,10.0,0.0,6300.0,0.0
+113,Vacuum Cleaner,Appliances,9.0,8000.0,Khulna,4.2,HomeApplianceCo,7.0,0.0,7440.0,0.0
+114,Speaker,Electronics,28.0,5600.0,Chittagong,4.7,SoundMax,0.0,1.0,5600.0,3.57
+115,Washing Machine,Appliances,11.0,17000.0,Sylhet,4.1,HomeApplianceCo,12.0,0.0,14960.0,0.0
+119,Projector,Electronics,6.0,12000.0,Dhaka,4.3,VisionTech,0.0,0.0,12000.0,0.0
